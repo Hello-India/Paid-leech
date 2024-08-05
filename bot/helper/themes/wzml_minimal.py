@@ -2,14 +2,14 @@
 class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
-    ST_BN1_NAME = 'Repo'
-    ST_BN1_URL = 'https://www.github.com/weebzone/WZML-X'
-    ST_BN2_NAME = 'Updates'
-    ST_BN2_URL = 'https://t.me/WZML_X'
+    ST_BN1_NAME = 'Oᴡɴᴇʀ'
+    ST_BN1_URL = 'https://t.me/Itz_Sahil_Official'
+    ST_BN2_NAME = 'Uᴘᴅᴀᴛᴇꜱ'
+    ST_BN2_URL = 'https://t.me/BinaryQuest'
     ST_MSG = '''<i>This bot can mirror all your links|files|torrents to Google Drive or any rclone cloud or to telegram or to ddl servers.</i>
-<b>Type {help_command} to get a list of available commands</b>'''
-    ST_BOTPM = '''<i>Now, This bot will send all your files and links here. Start Using ...</i>'''
-    ST_UNAUTH = '''<i>You Are not authorized user! Deploy your own WZML-X Mirror-Leech bot</i>'''
+<b>Type {help_command} to get a list of available commands\n\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤</b>'''
+    ST_BOTPM = '''<b>Now, This bot will send all your files and links here\n\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤</b>'''
+    ST_UNAUTH = '''<b>You Are not authorized user! Deploy your own bot\n\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤</b>'''
     OWN_TOKEN_GENERATE = '''<b>Temporary Token is not yours!</b>\n\n<i>Kindly generate your own.</i>'''
     USED_TOKEN = '''<b>Temporary Token already used!</b>\n\n<i>Kindly generate a new one.</i>'''
     LOGGED_PASSWORD = '''<b>Bot Already Logged In via Password</b>\n\n<i>No Need to Accept Temp Tokens.</i>'''
@@ -55,7 +55,7 @@ class WZMLStyle:
 ┃ {disk_bar} {disk}%
 ┃ <b>Total Disk Read :</b> {disk_read}
 ┃ <b>Total Disk Write :</b> {disk_write}
-┖ <b>U :</b> {disk_u} | <b>F :</b> {disk_f} | <b>T :</b> {disk_t}
+┖ <b>U :</b> {disk_u} | <b>F :</b> {disk_f} | <b>T :</b> {disk_t}\n\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤
     
     '''
     SYS_STATS = '''⌬ <b><i>OS SYSTEM :</i></b>
@@ -76,7 +76,7 @@ class WZMLStyle:
 ┠ <b>System Avg Load :</b> {sys_load}
 ┠ <b>P-Core(s) :</b> {p_core} | <b>V-Core(s) :</b> {v_core}
 ┠ <b>Total Core(s) :</b> {total_core}
-┖ <b>Usable CPU(s) :</b> {cpu_use}
+┖ <b>Usable CPU(s) :</b> {cpu_use}\n\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤
     '''
     REPO_STATS = '''⌬ <b><i>REPO STATISTICS :</i></b>
 ┠ <b>Bot Updated :</b> {last_commit}
@@ -84,7 +84,7 @@ class WZMLStyle:
 ┠ <b>Latest Version :</b> {lat_version}
 ┖ <b>Last ChangeLog :</b> {commit_details}
 
-⌬ <b>REMARKS :</b> <code>{remarks}</code>
+⌬ <b>REMARKS :</b> <code>{remarks}</code>\n\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤
     '''
     BOT_LIMITS = '''⌬ <b><i>BOT LIMITATIONS :</i></b>
 ┠ <b>Direct Limit :</b> {DL} GB
@@ -99,7 +99,7 @@ class WZMLStyle:
 ┎ <b>Token Validity :</b> {TV}
 ┠ <b>User Time Limit :</b> {UTI} / task
 ┠ <b>User Parallel Tasks :</b> {UT}
-┖ <b>Bot Parallel Tasks :</b> {BT}
+┖ <b>Bot Parallel Tasks :</b> {BT}\n\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤
     '''
     # ---------------------
 
@@ -112,7 +112,7 @@ class WZMLStyle:
 ┠ <b>Date:</b> {date}
 ┠ <b>Time:</b> {time}
 ┠ <b>TimeZone:</b> {timz}
-┖ <b>Version:</b> {version}'''
+┖ <b>Version:</b> {version}\n\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤'''
     RESTARTED = '''⌬ <b><i>Bot Restarted!</i></b>'''
     # ---------------------
 
