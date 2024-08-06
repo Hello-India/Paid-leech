@@ -7,9 +7,9 @@ class WZMLStyle:
     ST_BN2_NAME = 'Uᴘᴅᴀᴛᴇꜱ'
     ST_BN2_URL = 'https://t.me/BinaryQuest'
     ST_MSG = '''<i>This bot can mirror all your links|files|torrents to Google Drive or any rclone cloud or to telegram or to ddl servers.</i>
-<b>Type {help_command} to get a list of available commands\n\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤</b>'''
-    ST_BOTPM = '''<b>Now, This bot will send all your files and links here\n\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤</b>'''
-    ST_UNAUTH = '''<b>Hᴇʟʟᴏ,ɪ ᴀᴍ Tᴇʟᴇɢʀᴀᴍ Lᴇᴇᴄʜ Bᴏᴛ\nʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴀɴ ᴀᴜᴛʜᴏʀɪꜱᴇᴅ ᴜꜱᴇʀ ꜱᴏ\nᴘʟᴇᴀꜱᴇ ᴊᴏɪɴ ᴍʏ ᴀᴜᴛʜᴏʀɪꜱᴇᴅ ɢʀᴏᴜᴘ ᴏʀ ᴄᴏɴᴛᴀᴄᴛɪɴ ᴏᴜʀ ʜᴇʟᴘ ᴄʜᴀᴛ\n\nʜᴇʟᴘ ᴄʜᴀᴛ ~ @BQChats\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤</b>'''
+<b>Type {help_command} to get a list of available commands\n\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>'''
+    ST_BOTPM = '''<b>Now, This bot will send all your files and links here\n\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>'''
+    ST_UNAUTH = '''<b>Hᴇʟʟᴏ,ɪ ᴀᴍ Tᴇʟᴇɢʀᴀᴍ Lᴇᴇᴄʜ Bᴏᴛ\nʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴀɴ ᴀᴜᴛʜᴏʀɪꜱᴇᴅ ᴜꜱᴇʀ ꜱᴏ\nᴘʟᴇᴀꜱᴇ ᴊᴏɪɴ ᴍʏ ᴀᴜᴛʜᴏʀɪꜱᴇᴅ ɢʀᴏᴜᴘ ᴏʀ ᴄᴏɴᴛᴀᴄᴛɪɴ ᴏᴜʀ ʜᴇʟᴘ ᴄʜᴀᴛ\n\nʜᴇʟᴘ ᴄʜᴀᴛ ~ @BQChats\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>'''
     OWN_TOKEN_GENERATE = '''<b>Temporary Token is not yours!</b>\n\n<i>Kindly generate your own.</i>'''
     USED_TOKEN = '''<b>Temporary Token already used!</b>\n\n<i>Kindly generate a new one.</i>'''
     LOGGED_PASSWORD = '''<b>Bot Already Logged In via Password</b>\n\n<i>No Need to Accept Temp Tokens.</i>'''
@@ -55,7 +55,7 @@ class WZMLStyle:
 ┃ {disk_bar} {disk}%
 ┃ <b>Total Disk Read :</b> {disk_read}
 ┃ <b>Total Disk Write :</b> {disk_write}
-┖ <b>U :</b> {disk_u} | <b>F :</b> {disk_f} | <b>T :</b> {disk_t}\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤</b>
+┖ <b>U :</b> {disk_u} | <b>F :</b> {disk_f} | <b>T :</b> {disk_t}\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>
     
     '''
     SYS_STATS = '''⌬ <b><i>OS SYSTEM :</i></b>
@@ -76,7 +76,7 @@ class WZMLStyle:
 ┠ <b>System Avg Load :</b> {sys_load}
 ┠ <b>P-Core(s) :</b> {p_core} | <b>V-Core(s) :</b> {v_core}
 ┠ <b>Total Core(s) :</b> {total_core}
-┖ <b>Usable CPU(s) :</b> {cpu_use}\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤</b>
+┖ <b>Usable CPU(s) :</b> {cpu_use}\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>
     '''
     REPO_STATS = '''⌬ <b><i>REPO STATISTICS :</i></b>
 ┠ <b>Bot Updated :</b> {last_commit}
@@ -84,7 +84,7 @@ class WZMLStyle:
 ┠ <b>Latest Version :</b> {lat_version}
 ┖ <b>Last ChangeLog :</b> {commit_details}
 
-⌬ <b>REMARKS :</b> <code>{remarks}</code>\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤</b>
+⌬ <b>REMARKS :</b> <code>{remarks}</code>\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>
     '''
     BOT_LIMITS = '''⌬ <b><i>BOT LIMITATIONS :</i></b>
 ┠ <b>Direct Limit :</b> {DL} GB
@@ -99,7 +99,7 @@ class WZMLStyle:
 ┎ <b>Token Validity :</b> {TV}
 ┠ <b>User Time Limit :</b> {UTI} / task
 ┠ <b>User Parallel Tasks :</b> {UT}
-┖ <b>Bot Parallel Tasks :</b> {BT}\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤</b>
+┖ <b>Bot Parallel Tasks :</b> {BT}\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>
     '''
     # ---------------------
 
@@ -112,7 +112,7 @@ class WZMLStyle:
 ┠ <b>Date:</b> {date}
 ┠ <b>Time:</b> {time}
 ┠ <b>TimeZone:</b> {timz}
-┖ <b>Version:</b> {version}\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤</b>'''
+┖ <b>Version:</b> {version}\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>'''
     RESTARTED = '''⌬ <b><i>Bot Restarted!</i></b>'''
     # ---------------------
 
@@ -139,7 +139,7 @@ class WZMLStyle:
     NAME =                  '<b><i>{Name}</i></b>\n┃\n'
     SIZE =                  '┠ <b>Size: </b>{Size}\n'
     ELAPSE =                '┠ <b>Elapsed: </b>{Time}\n'
-    MODE =                  '┠ <b>Mode: </b>{Mode}\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤</b>'
+    MODE =                  '┠ <b>Mode: </b>{Mode}\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>'
 
     # ----- LEECH -------
     L_TOTAL_FILES =         '┠ <b>Total Files: </b>{Files}\n'
@@ -155,7 +155,7 @@ class WZMLStyle:
     TOTAL_FILES =           '┠ <b>Files: </b>{Files}\n'
     RCPATH =                '┠ <b>Path: </b><code>{RCpath}</code>\n'
     M_CC =                  '┖ <b>By: </b>{Tag}\n\n'
-    M_BOT_MSG =             '➲ <b><i>Link(s) have been Sent to Bot PM (Private)</i></b>\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤</b>'
+    M_BOT_MSG =             '➲ <b><i>Link(s) have been Sent to Bot PM (Private)</i></b>\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>'
     # ----- BUTTONS -------
     CLOUD_LINK =      '☁️ Cloud Link'
     SAVE_MSG =        '📨 Save Message'
@@ -214,7 +214,7 @@ class WZMLStyle:
     Ram = '\n┠ <b>RAM:</b> {ram}% | '
     uptime =                     '<b>UPTIME:</b> {uptime}'
     DL = '\n┖ <b>DL:</b> {DL}/s | '
-    UL =                        '<b>UL:</b> {UL}/s\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest 🖤</b>'
+    UL =                        '<b>UL:</b> {UL}/s\n\n<b>Pᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>'
 
     ###--------BUTTONS-------
     PREVIOUS = '⫷'
