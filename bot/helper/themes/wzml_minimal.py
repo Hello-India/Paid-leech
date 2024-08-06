@@ -9,7 +9,7 @@ class WZMLStyle:
     ST_MSG = '''<i>This bot can mirror all your links|files|torrents to Google Drive or any rclone cloud or to telegram or to ddl servers.</i>
 <b>Type {help_command} to get a list of available commands\n\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>'''
     ST_BOTPM = '''<b>Now, This bot will send all your files and links here\n\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>'''
-    ST_UNAUTH = '''<b>Hᴇʟʟᴏ,ɪ ᴀᴍ Tᴇʟᴇɢʀᴀᴍ Lᴇᴇᴄʜ Bᴏᴛ\nʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴀɴ ᴀᴜᴛʜᴏʀɪꜱᴇᴅ ᴜꜱᴇʀ ꜱᴏ\nᴘʟᴇᴀꜱᴇ ᴊᴏɪɴ ᴍʏ ᴀᴜᴛʜᴏʀɪꜱᴇᴅ ɢʀᴏᴜᴘ ᴏʀ ᴄᴏɴᴛᴀᴄᴛɪɴ ᴏᴜʀ ʜᴇʟᴘ ᴄʜᴀᴛ\n\nʜᴇʟᴘ ᴄʜᴀᴛ ~ @BQChats\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>'''
+    ST_UNAUTH = '''<b>Hᴇʟʟᴏ,ɪ ᴀᴍ Tᴇʟᴇɢʀᴀᴍ Lᴇᴇᴄʜ Bᴏᴛ\nʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴀɴ ᴀᴜᴛʜᴏʀɪꜱᴇᴅ ᴜꜱᴇʀ ꜱᴏ\n\nᴘʟᴇᴀꜱᴇ ᴊᴏɪɴ ᴍʏ ᴀᴜᴛʜᴏʀɪꜱᴇᴅ ɢʀᴏᴜᴘ ᴏʀ ᴄᴏɴᴛᴀᴄᴛɪɴ ᴏᴜʀ ʜᴇʟᴘ ᴄʜᴀᴛ\n\nʜᴇʟᴘ ᴄʜᴀᴛ ~ @BQChats\nPᴏᴡᴇʀᴇᴅ ʙʏ @BinaryQuest🖤</b>'''
     OWN_TOKEN_GENERATE = '''<b>Temporary Token is not yours!</b>\n\n<i>Kindly generate your own.</i>'''
     USED_TOKEN = '''<b>Temporary Token already used!</b>\n\n<i>Kindly generate a new one.</i>'''
     LOGGED_PASSWORD = '''<b>Bot Already Logged In via Password</b>\n\n<i>No Need to Accept Temp Tokens.</i>'''
